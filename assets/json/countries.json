@@ -1,0 +1,1220 @@
+ [
+    {
+      "id": 125,
+      "primaryName": "აშშ",
+      "secondaryName": "USA",
+      "tertiaryName": "США"
+    },
+    {
+      "id": 123,
+      "primaryName": "საფრანგეთი",
+      "secondaryName": "France",
+      "tertiaryName": "Франция"
+    },
+    {
+      "id": 124,
+      "primaryName": "დიდი ბრიტანეთი",
+      "secondaryName": "UK",
+      "tertiaryName": "Великобритания"
+    },
+    {
+      "id": 126,
+      "primaryName": "კანადა",
+      "secondaryName": "Canada",
+      "tertiaryName": "Канада"
+    },
+    {
+      "id": 135,
+      "primaryName": "იტალია",
+      "secondaryName": "Italy",
+      "tertiaryName": "Италия"
+    },
+    {
+      "id": 133,
+      "primaryName": "იაპონია",
+      "secondaryName": "Japan",
+      "tertiaryName": "Япония"
+    },
+    {
+      "id": 132,
+      "primaryName": "გერმანია",
+      "secondaryName": "Germany",
+      "tertiaryName": "Германия"
+    },
+    {
+      "id": 130,
+      "primaryName": "ესპანეთი",
+      "secondaryName": "Spain",
+      "tertiaryName": "Испания"
+    },
+    {
+      "id": 139,
+      "primaryName": "რუსეთი",
+      "secondaryName": "Russia",
+      "tertiaryName": "Россия"
+    },
+    {
+      "id": 152,
+      "primaryName": "ინდოეთი",
+      "secondaryName": "India",
+      "tertiaryName": "Индия"
+    },
+    {
+      "id": 149,
+      "primaryName": "ავსტრალია",
+      "secondaryName": "Australia",
+      "tertiaryName": "Австралия"
+    },
+    {
+      "id": 162,
+      "primaryName": "დასავლეთ გერმანია",
+      "secondaryName": "West Germany",
+      "tertiaryName": "Западная Германия"
+    },
+    {
+      "id": 129,
+      "primaryName": "ჰონკონგი",
+      "secondaryName": "Hong Kong",
+      "tertiaryName": "Гонконг"
+    },
+    {
+      "id": 154,
+      "primaryName": "შვედეთი",
+      "secondaryName": "Sweden",
+      "tertiaryName": "Швеция"
+    },
+    {
+      "id": 140,
+      "primaryName": "ბელგია",
+      "secondaryName": "Belgium",
+      "tertiaryName": "Бельгия"
+    },
+    {
+      "id": 142,
+      "primaryName": "სამხრეთ კორეა",
+      "secondaryName": "South Korea",
+      "tertiaryName": "Южная Корея"
+    },
+    {
+      "id": 170,
+      "primaryName": "ნიდერლანდი",
+      "secondaryName": "Netherlands",
+      "tertiaryName": "Нидерланды"
+    },
+    {
+      "id": 136,
+      "primaryName": "მექსიკა",
+      "secondaryName": "Mexico",
+      "tertiaryName": "Мексика"
+    },
+    {
+      "id": 147,
+      "primaryName": "შვეიცარია",
+      "secondaryName": "Switzerland",
+      "tertiaryName": "Швейцария"
+    },
+    {
+      "id": 128,
+      "primaryName": "ჩინეთი",
+      "secondaryName": "China",
+      "tertiaryName": "Китай"
+    },
+    {
+      "id": 134,
+      "primaryName": "დანია",
+      "secondaryName": "Denmark",
+      "tertiaryName": "Дания"
+    },
+    {
+      "id": 168,
+      "primaryName": "პორტუგალია",
+      "secondaryName": "Portugal",
+      "tertiaryName": "Португалия"
+    },
+    {
+      "id": 141,
+      "primaryName": "არგენტინა",
+      "secondaryName": "Argentina",
+      "tertiaryName": "Аргентина"
+    },
+    {
+      "id": 153,
+      "primaryName": "საბჭოთა კავშირი",
+      "secondaryName": "Soviet Union",
+      "tertiaryName": "СССР"
+    },
+    {
+      "id": 157,
+      "primaryName": "ბრაზილია",
+      "secondaryName": "Brazil",
+      "tertiaryName": "Бразилия"
+    },
+    {
+      "id": 148,
+      "primaryName": "პოლონეთი",
+      "secondaryName": "Poland",
+      "tertiaryName": "Польша"
+    },
+    {
+      "id": 151,
+      "primaryName": "ავსტრია",
+      "secondaryName": "Austria",
+      "tertiaryName": "Австрия"
+    },
+    {
+      "id": 131,
+      "primaryName": "ირლანდია",
+      "secondaryName": "Ireland",
+      "tertiaryName": "Ирландия"
+    },
+    {
+      "id": 137,
+      "primaryName": "ნორვეგია",
+      "secondaryName": "Norway",
+      "tertiaryName": "Норвегия"
+    },
+    {
+      "id": 206,
+      "primaryName": "ფილიპინები",
+      "secondaryName": "Philippines",
+      "tertiaryName": "Филиппины"
+    },
+    {
+      "id": 155,
+      "primaryName": "ფინეთი",
+      "secondaryName": "Finland",
+      "tertiaryName": "Финляндия"
+    },
+    {
+      "id": 143,
+      "primaryName": "უნგრეთი",
+      "secondaryName": "Hungary",
+      "tertiaryName": "Венгрия"
+    },
+    {
+      "id": 159,
+      "primaryName": "ისრაელი",
+      "secondaryName": "Israel",
+      "tertiaryName": "Израиль"
+    },
+    {
+      "id": 122,
+      "primaryName": "სამხრეთ აფრიკა",
+      "secondaryName": "South Africa",
+      "tertiaryName": "Южная Африка"
+    },
+    {
+      "id": 186,
+      "primaryName": "საბერძნეთი",
+      "secondaryName": "Greece",
+      "tertiaryName": "Греция"
+    },
+    {
+      "id": 165,
+      "primaryName": "ირანი",
+      "secondaryName": "Iran",
+      "tertiaryName": "Иран"
+    },
+    {
+      "id": 138,
+      "primaryName": "ჩილე",
+      "secondaryName": "Chile",
+      "tertiaryName": "Чили"
+    },
+    {
+      "id": 163,
+      "primaryName": "რუმინეთი",
+      "secondaryName": "Romania",
+      "tertiaryName": "Румыния"
+    },
+    {
+      "id": 150,
+      "primaryName": "ჩეხეთი",
+      "secondaryName": "Czech Republic",
+      "tertiaryName": "Чехия"
+    },
+    {
+      "id": 166,
+      "primaryName": "იუგოსლავია",
+      "secondaryName": "Yugoslavia",
+      "tertiaryName": "Югославии"
+    },
+    {
+      "id": 172,
+      "primaryName": "ტაივანი",
+      "secondaryName": "Taiwan",
+      "tertiaryName": "Тайвань"
+    },
+    {
+      "id": 156,
+      "primaryName": "ახალი ზელანდია",
+      "secondaryName": "New Zealand",
+      "tertiaryName": "Новая Зеландия"
+    },
+    {
+      "id": 223,
+      "primaryName": "ეგვიპტე",
+      "secondaryName": "Egypt",
+      "tertiaryName": "Египет"
+    },
+    {
+      "id": 158,
+      "primaryName": "ტაილანდი",
+      "secondaryName": "Thailand",
+      "tertiaryName": "Таиланд"
+    },
+    {
+      "id": 145,
+      "primaryName": "ჩეხოსლოვაკია",
+      "secondaryName": "Czechoslovakia",
+      "tertiaryName": "Чехословакия"
+    },
+    {
+      "id": 210,
+      "primaryName": "ინდონეზია",
+      "secondaryName": "Indonesia",
+      "tertiaryName": "Индонезия"
+    },
+    {
+      "id": 171,
+      "primaryName": "ისლანდია",
+      "secondaryName": "Iceland",
+      "tertiaryName": "Исландия"
+    },
+    {
+      "id": 173,
+      "primaryName": "საქართველო",
+      "secondaryName": "Georgia",
+      "tertiaryName": "Грузия"
+    },
+    {
+      "id": 144,
+      "primaryName": "ლუქსემბურგი",
+      "secondaryName": "Luxembourg",
+      "tertiaryName": "Люксембург"
+    },
+    {
+      "id": 336,
+      "primaryName": "თურქეთი",
+      "secondaryName": "Turkey",
+      "tertiaryName": "Турция"
+    },
+    {
+      "id": 190,
+      "primaryName": "ლიტვა",
+      "secondaryName": "Lithuania",
+      "tertiaryName": "Литва"
+    },
+    {
+      "id": 174,
+      "primaryName": "ბულგარეთი",
+      "secondaryName": "Bulgaria",
+      "tertiaryName": "Болгария"
+    },
+    {
+      "id": 176,
+      "primaryName": "მაროკო",
+      "secondaryName": "Morocco",
+      "tertiaryName": "Марокко"
+    },
+    {
+      "id": 177,
+      "primaryName": "უკრაინა",
+      "secondaryName": "Ukraine",
+      "tertiaryName": "Украина"
+    },
+    {
+      "id": 201,
+      "primaryName": "კოლუმბია",
+      "secondaryName": "Colombia",
+      "tertiaryName": "Колумбия"
+    },
+    {
+      "id": 191,
+      "primaryName": "სინგაპური",
+      "secondaryName": "Singapore",
+      "tertiaryName": "Сингапур"
+    },
+    {
+      "id": 146,
+      "primaryName": "ტუნისი",
+      "secondaryName": "Tunisia",
+      "tertiaryName": "Тунис"
+    },
+    {
+      "id": 178,
+      "primaryName": "ესტონეთი",
+      "secondaryName": "Estonia",
+      "tertiaryName": "Эстония"
+    },
+    {
+      "id": 203,
+      "primaryName": "კუბა",
+      "secondaryName": "Cuba",
+      "tertiaryName": "Куба"
+    },
+    {
+      "id": 192,
+      "primaryName": "ხორვატია",
+      "secondaryName": "Croatia",
+      "tertiaryName": "Хорватия"
+    },
+    {
+      "id": 164,
+      "primaryName": "სერბეთი",
+      "secondaryName": "Serbia",
+      "tertiaryName": "Сербия"
+    },
+    {
+      "id": 161,
+      "primaryName": "ალჟირი",
+      "secondaryName": "Algeria",
+      "tertiaryName": "Алжир"
+    },
+    {
+      "id": 218,
+      "primaryName": "მალაიზია",
+      "secondaryName": "Malaysia",
+      "tertiaryName": "Малайзия"
+    },
+    {
+      "id": 231,
+      "primaryName": "ნიგერია",
+      "secondaryName": "Nigeria",
+      "tertiaryName": "Нигерия"
+    },
+    {
+      "id": 233,
+      "primaryName": "სენეგალი",
+      "secondaryName": "Senegal",
+      "tertiaryName": "Сенегал"
+    },
+    {
+      "id": 188,
+      "primaryName": "ლიბანი",
+      "secondaryName": "Lebanon",
+      "tertiaryName": "Ливан"
+    },
+    {
+      "id": 167,
+      "primaryName": "ურუგვაი",
+      "secondaryName": "Uruguay",
+      "tertiaryName": "Уругвай"
+    },
+    {
+      "id": 229,
+      "primaryName": "ლატვია",
+      "secondaryName": "Latvia",
+      "tertiaryName": "Латвия"
+    },
+    {
+      "id": 238,
+      "primaryName": "ვენესუელა",
+      "secondaryName": "Venezuela",
+      "tertiaryName": "Венесуэла"
+    },
+    {
+      "id": 187,
+      "primaryName": "ყაზახეთი",
+      "secondaryName": "Kazakhstan",
+      "tertiaryName": "Казахстан"
+    },
+    {
+      "id": 160,
+      "primaryName": "გაერთიანებული ემირატები",
+      "secondaryName": "United Arab Emirates",
+      "tertiaryName": "Объединенные Арабские Эмираты"
+    },
+    {
+      "id": 202,
+      "primaryName": "სლოვენია",
+      "secondaryName": "Slovenia",
+      "tertiaryName": "Словения"
+    },
+    {
+      "id": 199,
+      "primaryName": "პერუ",
+      "secondaryName": "Peru",
+      "tertiaryName": "Перу"
+    },
+    {
+      "id": 236,
+      "primaryName": "ბურკინაფასო",
+      "secondaryName": "Burkina Faso",
+      "tertiaryName": "Буркина-Фасо"
+    },
+    {
+      "id": 189,
+      "primaryName": "სლოვაკეთი",
+      "secondaryName": "Slovakia",
+      "tertiaryName": "Словакия"
+    },
+    {
+      "id": 197,
+      "primaryName": "პალესტინა",
+      "secondaryName": "Occupied Palestinian Territory",
+      "tertiaryName": "Оккупированной Палестинской Территории"
+    },
+    {
+      "id": 245,
+      "primaryName": "პაკისტანი",
+      "secondaryName": "Pakistan",
+      "tertiaryName": "Пакистан"
+    },
+    {
+      "id": 193,
+      "primaryName": "ბოსნია ჰერცოგოვინა",
+      "secondaryName": "Bosnia and Herzegovina",
+      "tertiaryName": ""
+    },
+    {
+      "id": 198,
+      "primaryName": "აღმოსავლეთ გერმანია",
+      "secondaryName": "East Germany",
+      "tertiaryName": "ГДР"
+    },
+    {
+      "id": 209,
+      "primaryName": "ვიეტნამი",
+      "secondaryName": "Vietnam",
+      "tertiaryName": "Вьетнам"
+    },
+    {
+      "id": 257,
+      "primaryName": "შრი-ლანკა",
+      "secondaryName": "Sri Lanka",
+      "tertiaryName": "Шри-Ланка"
+    },
+    {
+      "id": 196,
+      "primaryName": "რუერტო რიკო",
+      "secondaryName": "Puerto Rico",
+      "tertiaryName": "Пуэрто-Рико"
+    },
+    {
+      "id": 184,
+      "primaryName": "აზერბაიჯანი",
+      "secondaryName": "Azerbaijan",
+      "tertiaryName": "Азербайджан"
+    },
+    {
+      "id": 264,
+      "primaryName": "კენია",
+      "secondaryName": "Kenya",
+      "tertiaryName": "Кения"
+    },
+    {
+      "id": 181,
+      "primaryName": "კამერუნი",
+      "secondaryName": "Cameroon",
+      "tertiaryName": "Камерун"
+    },
+    {
+      "id": 175,
+      "primaryName": "მკედონია",
+      "secondaryName": "Republic of Macedonia",
+      "tertiaryName": "Республика Македония"
+    },
+    {
+      "id": 271,
+      "primaryName": "სპილოს ძვლის კუნძულები",
+      "secondaryName": "Ivory Coast",
+      "tertiaryName": ""
+    },
+    {
+      "id": 249,
+      "primaryName": "ქატარი",
+      "secondaryName": "Qatar",
+      "tertiaryName": "Катар"
+    },
+    {
+      "id": 230,
+      "primaryName": "კვიპროსი",
+      "secondaryName": "Cyprus",
+      "tertiaryName": "Кипр"
+    },
+    {
+      "id": 235,
+      "primaryName": "მალი",
+      "secondaryName": "Mali",
+      "tertiaryName": "Мали"
+    },
+    {
+      "id": 234,
+      "primaryName": "განა",
+      "secondaryName": "Ghana",
+      "tertiaryName": "Гана"
+    },
+    {
+      "id": 222,
+      "primaryName": "სომხეთი",
+      "secondaryName": "Armenia",
+      "tertiaryName": "Армения"
+    },
+    {
+      "id": 262,
+      "primaryName": "გვადელუპე",
+      "secondaryName": "Guadeloupe",
+      "tertiaryName": "Гваделупа"
+    },
+    {
+      "id": 243,
+      "primaryName": "ერაყი",
+      "secondaryName": "Iraq",
+      "tertiaryName": "Ирак"
+    },
+    {
+      "id": 217,
+      "primaryName": "ალბანეთი",
+      "secondaryName": "Albania",
+      "tertiaryName": "Албания"
+    },
+    {
+      "id": 256,
+      "primaryName": "სირია",
+      "secondaryName": "Syria",
+      "tertiaryName": "Сирия"
+    },
+    {
+      "id": 260,
+      "primaryName": "კამბოჯა",
+      "secondaryName": "Cambodia",
+      "tertiaryName": "Камбоджа"
+    },
+    {
+      "id": 204,
+      "primaryName": "ბოლივია",
+      "secondaryName": "Bolivia",
+      "tertiaryName": "Боливия"
+    },
+    {
+      "id": 212,
+      "primaryName": "დომენიკის რესპუბლიკა",
+      "secondaryName": "Dominican Republic",
+      "tertiaryName": "Доминиканская Республика"
+    },
+    {
+      "id": 267,
+      "primaryName": "ჰაიტი",
+      "secondaryName": "Haiti",
+      "tertiaryName": "Гаити"
+    },
+    {
+      "id": 219,
+      "primaryName": "ავღანეთი",
+      "secondaryName": "Afghanistan",
+      "tertiaryName": "Афганистан"
+    },
+    {
+      "id": 239,
+      "primaryName": "კონგო",
+      "secondaryName": "Democratic Republic of the Congo",
+      "tertiaryName": "Демократическая Республика Конго"
+    },
+    {
+      "id": 246,
+      "primaryName": "ეთიოპია",
+      "secondaryName": "Ethiopia",
+      "tertiaryName": "Эфиопия"
+    },
+    {
+      "id": 272,
+      "primaryName": "ზიმბაბვე",
+      "secondaryName": "Zimbabwe",
+      "tertiaryName": "Зимбабве"
+    },
+    {
+      "id": 232,
+      "primaryName": "ანგოლა",
+      "secondaryName": "Angola",
+      "tertiaryName": "Ангола"
+    },
+    {
+      "id": 253,
+      "primaryName": "ბანგლადეში",
+      "secondaryName": "Bangladesh",
+      "tertiaryName": "Бангладеш"
+    },
+    {
+      "id": 237,
+      "primaryName": "რვანდა",
+      "secondaryName": "Rwanda",
+      "tertiaryName": "Руанда"
+    },
+    {
+      "id": 248,
+      "primaryName": "მავრიტანია",
+      "secondaryName": "Mauritania",
+      "tertiaryName": "Мавритания"
+    },
+    {
+      "id": 266,
+      "primaryName": "გვინეა",
+      "secondaryName": "Guinea",
+      "tertiaryName": "Гвинея"
+    },
+    {
+      "id": 247,
+      "primaryName": "პანამა",
+      "secondaryName": "Panama",
+      "tertiaryName": "Панама"
+    },
+    {
+      "id": 200,
+      "primaryName": "ლიხტენშტეინი",
+      "secondaryName": "Liechtenstein",
+      "tertiaryName": "Лихтенштейн"
+    },
+    {
+      "id": 208,
+      "primaryName": "მალტა",
+      "secondaryName": "Malta",
+      "tertiaryName": "Мальта"
+    },
+    {
+      "id": 274,
+      "primaryName": "ტანზანია",
+      "secondaryName": "Tanzania",
+      "tertiaryName": "Танзания"
+    },
+    {
+      "id": 283,
+      "primaryName": "მოზამბიკი",
+      "secondaryName": "Mozambique",
+      "tertiaryName": "Мозамбик"
+    },
+    {
+      "id": 300,
+      "primaryName": "სუდანი",
+      "secondaryName": "Sudan",
+      "tertiaryName": "Судан"
+    },
+    {
+      "id": 207,
+      "primaryName": "ნეპალი",
+      "secondaryName": "Nepal",
+      "tertiaryName": "Непал"
+    },
+    {
+      "id": 220,
+      "primaryName": "უზბეკეთი",
+      "secondaryName": "Uzbekistan",
+      "tertiaryName": "Узбекистан"
+    },
+    {
+      "id": 275,
+      "primaryName": "ნიგერი",
+      "secondaryName": "Niger",
+      "tertiaryName": "Нигер"
+    },
+    {
+      "id": 227,
+      "primaryName": "ნამიბია",
+      "secondaryName": "Namibia",
+      "tertiaryName": "Намибия"
+    },
+    {
+      "id": 224,
+      "primaryName": "იორდანია",
+      "secondaryName": "Jordan",
+      "tertiaryName": "Иордания"
+    },
+    {
+      "id": 299,
+      "primaryName": "უგანდა",
+      "secondaryName": "Uganda",
+      "tertiaryName": "Уганда"
+    },
+    {
+      "id": 225,
+      "primaryName": "ეკვადორი",
+      "secondaryName": "Ecuador",
+      "tertiaryName": "Эквадор"
+    },
+    {
+      "id": 255,
+      "primaryName": "გაბონი",
+      "secondaryName": "Gabon",
+      "tertiaryName": "Габон"
+    },
+    {
+      "id": 240,
+      "primaryName": "ჯამაიკა",
+      "secondaryName": "Jamaica",
+      "tertiaryName": "Ямайка"
+    },
+    {
+      "id": 258,
+      "primaryName": "კოსტარიკა",
+      "secondaryName": "Costa Rica",
+      "tertiaryName": "Коста-Рика"
+    },
+    {
+      "id": 226,
+      "primaryName": "ჩადი",
+      "secondaryName": "Chad",
+      "tertiaryName": "Чад"
+    },
+    {
+      "id": 221,
+      "primaryName": "ბელარუსი",
+      "secondaryName": "Belarus",
+      "tertiaryName": "Беларусь"
+    },
+    {
+      "id": 215,
+      "primaryName": "ლიბერია",
+      "secondaryName": "Liberia",
+      "tertiaryName": "Либерия"
+    },
+    {
+      "id": 294,
+      "primaryName": "სომალი",
+      "secondaryName": "Somalia",
+      "tertiaryName": "Сомали"
+    },
+    {
+      "id": 216,
+      "primaryName": "მონაკო",
+      "secondaryName": "Monaco",
+      "tertiaryName": "Монако"
+    },
+    {
+      "id": 250,
+      "primaryName": "ბენინი",
+      "secondaryName": "Benin",
+      "tertiaryName": "Бенин"
+    },
+    {
+      "id": 194,
+      "primaryName": "ზამბია",
+      "secondaryName": "Zambia",
+      "tertiaryName": "Замбия"
+    },
+    {
+      "id": 228,
+      "primaryName": "ტაჯიკეთი",
+      "secondaryName": "Tajikistan",
+      "tertiaryName": "Таджикистан"
+    },
+    {
+      "id": 277,
+      "primaryName": "გრენლანდია",
+      "secondaryName": "Greenland",
+      "tertiaryName": "Гренландия"
+    },
+    {
+      "id": 345,
+      "primaryName": "სერბეთი და მონტენეგრო",
+      "secondaryName": "Serbia and Montenegro",
+      "tertiaryName": "Сербия и Черногория"
+    },
+    {
+      "id": 205,
+      "primaryName": "პარაგვაი",
+      "secondaryName": "Paraguay",
+      "tertiaryName": "Парагвай"
+    },
+    {
+      "id": 259,
+      "primaryName": "გვატემალა",
+      "secondaryName": "Guatemala",
+      "tertiaryName": "Гватемала"
+    },
+    {
+      "id": 263,
+      "primaryName": "ყირგიზეთი",
+      "secondaryName": "Kyrgyzstan",
+      "tertiaryName": "Кыргызстан"
+    },
+    {
+      "id": 339,
+      "primaryName": "მიანმარი",
+      "secondaryName": "Myanmar",
+      "tertiaryName": "Мьянма"
+    },
+    {
+      "id": 252,
+      "primaryName": "მონღოლეთი",
+      "secondaryName": "Mongolia",
+      "tertiaryName": "Монголия"
+    },
+    {
+      "id": 276,
+      "primaryName": "მადაგასკარი",
+      "secondaryName": "Madagascar",
+      "tertiaryName": "Мадагаскар"
+    },
+    {
+      "id": 302,
+      "primaryName": "ჩრდილოეთ კორეა",
+      "secondaryName": "North Korea",
+      "tertiaryName": "Северная Корея"
+    },
+    {
+      "id": 213,
+      "primaryName": "ლიბია",
+      "secondaryName": "Libya",
+      "tertiaryName": "Ливия"
+    },
+    {
+      "id": 270,
+      "primaryName": "კაპე ვერდე",
+      "secondaryName": "Cape Verde",
+      "tertiaryName": "Кабо-Верде"
+    },
+    {
+      "id": 301,
+      "primaryName": "სიერალეონე",
+      "secondaryName": "Sierra Leone",
+      "tertiaryName": "Сьерра-Леоне"
+    },
+    {
+      "id": 195,
+      "primaryName": "ბაჰამასი",
+      "secondaryName": "Bahamas",
+      "tertiaryName": "Багамские острова"
+    },
+    {
+      "id": 286,
+      "primaryName": "იემენი",
+      "secondaryName": "Yemen",
+      "tertiaryName": "Йемен"
+    },
+    {
+      "id": 254,
+      "primaryName": "მოლდოვა",
+      "secondaryName": "Moldova",
+      "tertiaryName": "Молдова"
+    },
+    {
+      "id": 284,
+      "primaryName": "ლაოსი",
+      "secondaryName": "Laos",
+      "tertiaryName": "Лаос"
+    },
+    {
+      "id": 169,
+      "primaryName": "ბუტანი",
+      "secondaryName": "Bhutan",
+      "tertiaryName": "Бутан"
+    },
+    {
+      "id": 183,
+      "primaryName": "არუბა",
+      "secondaryName": "Aruba",
+      "tertiaryName": "Аруба"
+    },
+    {
+      "id": 273,
+      "primaryName": "კოსოვო",
+      "secondaryName": "Kosovo",
+      "tertiaryName": "Косово"
+    },
+    {
+      "id": 346,
+      "primaryName": "მონტენეგრო",
+      "secondaryName": "Montenegro",
+      "tertiaryName": "Черногория"
+    },
+    {
+      "id": 251,
+      "primaryName": "საუდისარაბეთი",
+      "secondaryName": "Saudi Arabia",
+      "tertiaryName": "Саудовская Аравия"
+    },
+    {
+      "id": 279,
+      "primaryName": "პაპუა ახალი გვინეა",
+      "secondaryName": "Papua New Guinea",
+      "tertiaryName": "Папуа Новая Гвинея"
+    },
+    {
+      "id": 211,
+      "primaryName": "ჰონდურასი",
+      "secondaryName": "Honduras",
+      "tertiaryName": "Гондурас"
+    },
+    {
+      "id": 289,
+      "primaryName": "ზაირი",
+      "secondaryName": "Zaire",
+      "tertiaryName": "Заир"
+    },
+    {
+      "id": 265,
+      "primaryName": "ტრინიდადი და ტობაგო",
+      "secondaryName": "Trinidad and Tobago",
+      "tertiaryName": "Тринидад и Тобаго"
+    },
+    {
+      "id": 331,
+      "primaryName": "სვაზილენდი",
+      "secondaryName": "Swaziland",
+      "tertiaryName": "Свазиленд"
+    },
+    {
+      "id": 179,
+      "primaryName": "ბოცვანა",
+      "secondaryName": "Botswana",
+      "tertiaryName": "Ботсвана"
+    },
+    {
+      "id": 241,
+      "primaryName": "სურინამი",
+      "secondaryName": "Suriname",
+      "tertiaryName": "Суринам"
+    },
+    {
+      "id": 287,
+      "primaryName": "ნიკარაგუა",
+      "secondaryName": "Nicaragua",
+      "tertiaryName": "Никарагуа"
+    },
+    {
+      "id": 288,
+      "primaryName": "მალავი",
+      "secondaryName": "Malawi",
+      "tertiaryName": "Малави"
+    },
+    {
+      "id": 325,
+      "primaryName": "გრენადა",
+      "secondaryName": "Grenada",
+      "tertiaryName": "Гренада"
+    },
+    {
+      "id": 285,
+      "primaryName": "გვინეა ბისაუ",
+      "secondaryName": "Guinea-Bissau",
+      "tertiaryName": "Гвинея-Бисау"
+    },
+    {
+      "id": 261,
+      "primaryName": "მარტინიკი",
+      "secondaryName": "Martinique",
+      "tertiaryName": "Мартиника"
+    },
+    {
+      "id": 269,
+      "primaryName": "კორეა",
+      "secondaryName": "Korea",
+      "tertiaryName": "Корея"
+    },
+    {
+      "id": 295,
+      "primaryName": "ბაჰრეინი",
+      "secondaryName": "Bahrain",
+      "tertiaryName": "Бахрейн"
+    },
+    {
+      "id": 327,
+      "primaryName": "სენტ-ვინსენტი და გრენადინები",
+      "secondaryName": "Saint Vincent And The Grenadines",
+      "tertiaryName": "Сент-Винсент И Гренадины"
+    },
+    {
+      "id": 341,
+      "primaryName": "კონგო",
+      "secondaryName": "Congo",
+      "tertiaryName": "Конго"
+    },
+    {
+      "id": 278,
+      "primaryName": "ბურუნდი",
+      "secondaryName": "Burundi",
+      "tertiaryName": "Бурунди"
+    },
+    {
+      "id": 296,
+      "primaryName": "ანდორა",
+      "secondaryName": "Andorra",
+      "tertiaryName": "Андорра"
+    },
+    {
+      "id": 324,
+      "primaryName": "მალდივები",
+      "secondaryName": "Maldives",
+      "tertiaryName": "Мальдивы"
+    },
+    {
+      "id": 328,
+      "primaryName": "ტუვალუ",
+      "secondaryName": "Tuvalu",
+      "tertiaryName": "Тувалу"
+    },
+    {
+      "id": 332,
+      "primaryName": "ფარერის კუნძულები",
+      "secondaryName": "Faroe Islands",
+      "tertiaryName": "Фарерские Острова"
+    },
+    {
+      "id": 342,
+      "primaryName": "ცენტრალური აფრიკის რესპუბლიკა",
+      "secondaryName": "Central African Republic",
+      "tertiaryName": "Центрально-Африканская Республика"
+    },
+    {
+      "id": 214,
+      "primaryName": "კუვეიტი",
+      "secondaryName": "Kuwait",
+      "tertiaryName": "Кувейт"
+    },
+    {
+      "id": 333,
+      "primaryName": "დასავლეთი საჰარა",
+      "secondaryName": "Western Sahara",
+      "tertiaryName": "Западной Сахаре"
+    },
+    {
+      "id": 343,
+      "primaryName": "ბრუნეი",
+      "secondaryName": "Brunei",
+      "tertiaryName": "Бруней"
+    },
+    {
+      "id": 182,
+      "primaryName": "მაკაო",
+      "secondaryName": "Macau",
+      "tertiaryName": "Макао"
+    },
+    {
+      "id": 268,
+      "primaryName": "ელსალვადორი",
+      "secondaryName": "El Salvador",
+      "tertiaryName": "Сальвадор"
+    },
+    {
+      "id": 298,
+      "primaryName": "ბელიზი",
+      "secondaryName": "Belize",
+      "tertiaryName": "Белиз"
+    },
+    {
+      "id": 326,
+      "primaryName": "სანტა ლუსია",
+      "secondaryName": "Saint Lucia",
+      "tertiaryName": "Сент-Люсия"
+    },
+    {
+      "id": 330,
+      "primaryName": "კომორის კუნძულების კავშირი",
+      "secondaryName": "Comoros",
+      "tertiaryName": "Коморы"
+    },
+    {
+      "id": 350,
+      "primaryName": "ანტიგუა და ბარბუდა",
+      "secondaryName": "Antigua and Barbuda",
+      "tertiaryName": "Антигуа и Барбуда"
+    },
+    {
+      "id": 281,
+      "primaryName": "ომანი",
+      "secondaryName": "Oman",
+      "tertiaryName": "Оман"
+    },
+    {
+      "id": 291,
+      "primaryName": "სამოა",
+      "secondaryName": "Samoa",
+      "tertiaryName": "Самоу"
+    },
+    {
+      "id": 313,
+      "primaryName": "რეიუნიონი",
+      "secondaryName": "Reunion",
+      "tertiaryName": "Реюньон"
+    },
+    {
+      "id": 337,
+      "primaryName": "ბირმა",
+      "secondaryName": "Burma",
+      "tertiaryName": "Бирма"
+    },
+    {
+      "id": 353,
+      "primaryName": "ბარბადოსი",
+      "secondaryName": "Barbados",
+      "tertiaryName": "Барбадос"
+    },
+    {
+      "id": 292,
+      "primaryName": "ჩრდილოეთ ვიეტნამი",
+      "secondaryName": "North Vietnam",
+      "tertiaryName": "Северный Вьетнам"
+    },
+    {
+      "id": 338,
+      "primaryName": "ფიჯი",
+      "secondaryName": "Fiji",
+      "tertiaryName": "Фиджи"
+    },
+    {
+      "id": 293,
+      "primaryName": "გამბია",
+      "secondaryName": "Gambia",
+      "tertiaryName": "Гамбия"
+    },
+    {
+      "id": 297,
+      "primaryName": "ინგლისი",
+      "secondaryName": "England",
+      "tertiaryName": "Англия"
+    },
+    {
+      "id": 329,
+      "primaryName": "ტონგა",
+      "secondaryName": "Tonga",
+      "tertiaryName": "Тонга"
+    },
+    {
+      "id": 347,
+      "primaryName": "სოლომონის კუნძულები",
+      "secondaryName": "Solomon Islands",
+      "tertiaryName": "Соломоновы Острова"
+    },
+    {
+      "id": 280,
+      "primaryName": "თურქმენეთი",
+      "secondaryName": "Turkmenistan",
+      "tertiaryName": "Туркменистан"
+    },
+    {
+      "id": 340,
+      "primaryName": "ბერმუდის კუნძულები",
+      "secondaryName": "Bermuda",
+      "tertiaryName": "Бермудские острова"
+    },
+    {
+      "id": 344,
+      "primaryName": "ლესოტო",
+      "secondaryName": "Lesotho",
+      "tertiaryName": "Лесото"
+    },
+    {
+      "id": 354,
+      "primaryName": "ჯიბუტი",
+      "secondaryName": "Djibouti",
+      "tertiaryName": "Джибу́ти"
+    },
+    {
+      "id": 356,
+      "primaryName": "წმინდა საყდარი (ვატიკანი)",
+      "secondaryName": "Holy See (Vatican City State)",
+      "tertiaryName": "?????? ??????? (???????)"
+    },
+    {
+      "id": 383,
+      "primaryName": "პალესტინა",
+      "secondaryName": "Palestine",
+      "tertiaryName": "?????????"
+    },
+    {
+      "id": 440,
+      "primaryName": "მიკრონეზია",
+      "secondaryName": "Micronesia",
+      "tertiaryName": "??????????"
+    }
+  ]

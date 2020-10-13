@@ -1,0 +1,892 @@
+[
+    {
+      "id": 163,
+      "name": "Millennium Films",
+      "poster": "https://static.imovies.cc/lists/155489342553.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/163-5e7339f67664b.png",
+      "backgroundImage": "https://static.imovies.cc/studios/163-5e78a762bb3cc.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.2830000000000004
+    },
+    {
+      "id": 149,
+      "name": "Cannon Entertainment",
+      "poster": "https://static.imovies.cc/lists/15537602076.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/149-5e73282c63c03.png",
+      "backgroundImage": "https://static.imovies.cc/studios/149-5e74773b927bc.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.3929999999999998
+    },
+    {
+      "id": 178,
+      "name": "Voltage Pictures",
+      "poster": "https://static.imovies.cc/lists/155489369123.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/178-5e732a2edfda8.png",
+      "backgroundImage": "https://static.imovies.cc/studios/178-5e747805ad88b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.4580000000000002
+    },
+    {
+      "id": 129,
+      "name": "Dimension Films",
+      "poster": "https://static.imovies.cc/lists/155489323630.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/129-5e732692cd23f.png",
+      "backgroundImage": "https://static.imovies.cc/studios/129-5e78a561109be.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.5199999999999996
+    },
+    {
+      "id": 94,
+      "name": "Rogue",
+      "poster": "https://static.imovies.cc/lists/155248092026.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/94-5e7339a657a78.png",
+      "backgroundImage": "https://static.imovies.cc/studios/94-5e74762ed0cbd.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.6079999999999997
+    },
+    {
+      "id": 111,
+      "name": "Screen Gems",
+      "poster": "https://static.imovies.cc/lists/155489307912.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/111-5e73255f177fd.png",
+      "backgroundImage": "https://static.imovies.cc/studios/111-5e7399edc0678.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.6520000000000001
+    },
+    {
+      "id": 189,
+      "name": "Stage 6 Films",
+      "poster": "https://static.imovies.cc/lists/155489380559.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/189-5e732ab362f07.png",
+      "backgroundImage": "https://static.imovies.cc/studios/189-5e789cbba0beb.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.7210000000000001
+    },
+    {
+      "id": 153,
+      "name": "Open Road Films",
+      "poster": "https://static.imovies.cc/lists/155489336739.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/153-5e7339c6d54f9.png",
+      "backgroundImage": "https://static.imovies.cc/studios/153-5e74775dcf525.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.8499999999999996
+    },
+    {
+      "id": 123,
+      "name": "Twisted Pictures",
+      "poster": "https://static.imovies.cc/lists/155376020171.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/123-5e7339bc8b4dd.png",
+      "backgroundImage": "https://static.imovies.cc/studios/123-5e74855d39aba.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.8789999999999996
+    },
+    {
+      "id": 165,
+      "name": "Blumhouse Productions",
+      "poster": "https://static.imovies.cc/lists/155489344332.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/165-5e73292cad598.png",
+      "backgroundImage": "https://static.imovies.cc/studios/165-5e73a32f6ff50.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.8860000000000001
+    },
+    {
+      "id": 195,
+      "name": "XYZ Films",
+      "poster": "https://static.imovies.cc/lists/155489386519.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/195-5e732ad38d8ac.png",
+      "backgroundImage": "https://static.imovies.cc/studios/195-5e7478987eb58.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.9160000000000004
+    },
+    {
+      "id": 148,
+      "name": "Davis Entertainment",
+      "poster": "https://static.imovies.cc/lists/155376014154.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/148-5e73281e665dd.png",
+      "backgroundImage": "https://static.imovies.cc/studios/148-5e73a250995ee.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 5.9269999999999996
+    },
+    {
+      "id": 136,
+      "name": "Morgan Creek Productions",
+      "poster": "https://static.imovies.cc/lists/155376016050.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/136-5e7326e526c2e.png",
+      "backgroundImage": "https://static.imovies.cc/studios/136-5e78f5f9ec37c.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.0110000000000001
+    },
+    {
+      "id": 96,
+      "name": "Lionsgate",
+      "poster": "https://static.imovies.cc/studios/96-5da83715472ea.png",
+      "lightPoster": "https://static.imovies.cc/studios/96-5da837157a472.png",
+      "backgroundImage": "https://static.imovies.cc/studios/96-5e78a2df314be.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/96-5dc187b856648.png",
+      "isFeatured": false,
+      "rating": 6.0190000000000001
+    },
+    {
+      "id": 125,
+      "name": "Constantin Film",
+      "poster": "https://static.imovies.cc/lists/155247824788.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/125-5e7326386816e.png",
+      "backgroundImage": "https://static.imovies.cc/studios/125-5e739ac015a36.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.0330000000000004
+    },
+    {
+      "id": 164,
+      "name": "Regency Enterprises",
+      "poster": "https://static.imovies.cc/lists/155489343424.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/164-5e73291b3d934.png",
+      "backgroundImage": "https://static.imovies.cc/studios/164-5e73a3245008e.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.0380000000000003
+    },
+    {
+      "id": 172,
+      "name": "Perfect World Pictures",
+      "poster": "https://static.imovies.cc/lists/155489351174.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/172-5e79bca013f32.png",
+      "backgroundImage": "https://static.imovies.cc/studios/172-5e7988a428714.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.1100000000000003
+    },
+    {
+      "id": 128,
+      "name": "Revolution Studios",
+      "poster": "https://static.imovies.cc/lists/155248090776.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/128-5e732678d057f.png",
+      "backgroundImage": "https://static.imovies.cc/studios/128-5e739ae606d69.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.1130000000000004
+    },
+    {
+      "id": 112,
+      "name": "EuropaCorp",
+      "poster": "https://static.imovies.cc/lists/155248035649.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/112-5e73258427c55.png",
+      "backgroundImage": "https://static.imovies.cc/studios/112-5e78f642648be.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.1289999999999996
+    },
+    {
+      "id": 100,
+      "name": "New Line Cinema",
+      "poster": "https://static.imovies.cc/lists/155248075046.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/100-5e7324ecb050c.png",
+      "backgroundImage": "https://static.imovies.cc/studios/100-5e7399a8178da.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": true,
+      "rating": 6.1660000000000004
+    },
+    {
+      "id": 117,
+      "name": "TriStar Pictures",
+      "poster": "https://static.imovies.cc/lists/155376021475.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/117-5e7325a9bb5cd.png",
+      "backgroundImage": "https://static.imovies.cc/studios/117-5e74766d34b7b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.173
+    },
+    {
+      "id": 108,
+      "name": "Hollywood Pictures",
+      "poster": "https://static.imovies.cc/lists/155248048768.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/108-5e73250c724f0.png",
+      "backgroundImage": "https://static.imovies.cc/studios/108-5e78a64abfb70.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": true,
+      "rating": 6.1890000000000001
+    },
+    {
+      "id": 154,
+      "name": "Lakeshore Entertainment",
+      "poster": "https://static.imovies.cc/studios/154-5da8265c21dc4.png",
+      "lightPoster": "https://static.imovies.cc/studios/154-5e79beb570dff.png",
+      "backgroundImage": "https://static.imovies.cc/studios/154-5da83413374d9.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/154-5dc188baec9a5.png",
+      "isFeatured": true,
+      "rating": 6.1890000000000001
+    },
+    {
+      "id": 176,
+      "name": "Village Roadshow Pictures",
+      "poster": "https://static.imovies.cc/lists/155490004913.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/176-5e732a2258495.png",
+      "backgroundImage": "https://static.imovies.cc/studios/176-5e7477f82f631.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.2350000000000003
+    },
+    {
+      "id": 99,
+      "name": "Pathé",
+      "poster": "https://static.imovies.cc/lists/155248079167.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/99-5e7324c670f87.png",
+      "backgroundImage": "https://static.imovies.cc/studios/99-5e7399891e346.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.2430000000000003
+    },
+    {
+      "id": 156,
+      "name": "Spyglass Entertainment",
+      "poster": "https://static.imovies.cc/lists/155376018857.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/156-5e7899d13f07b.png",
+      "backgroundImage": "https://static.imovies.cc/studios/156-5e73a29572e3c.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.2480000000000002
+    },
+    {
+      "id": 196,
+      "name": "STX Entertainment",
+      "poster": "https://static.imovies.cc/lists/155489387847.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/196-5e732add97993.png",
+      "backgroundImage": "https://static.imovies.cc/studios/196-5e73a4b327df3.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.282
+    },
+    {
+      "id": 162,
+      "name": "Canal+",
+      "poster": "https://static.imovies.cc/lists/155489341358.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/162-5e7328f2e3f82.png",
+      "backgroundImage": "https://static.imovies.cc/studios/162-5e73a3081303b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3010000000000002
+    },
+    {
+      "id": 174,
+      "name": "StudioCanal",
+      "poster": "https://static.imovies.cc/lists/15548939339.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/174-5e732a0384996.png",
+      "backgroundImage": "https://static.imovies.cc/studios/174-5e73a3e645b6a.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.319
+    },
+    {
+      "id": 103,
+      "name": "Universal Pictures",
+      "poster": "https://static.imovies.cc/studios/103-5da837dec214f.png",
+      "lightPoster": "https://static.imovies.cc/studios/103-5da837df03d5b.png",
+      "backgroundImage": "https://static.imovies.cc/studios/103-5da837df47f45.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/103-5dc1511fbd66c.png",
+      "isFeatured": true,
+      "rating": 6.3230000000000004
+    },
+    {
+      "id": 143,
+      "name": "Summit Entertainment",
+      "poster": "https://static.imovies.cc/lists/155248098423.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/143-5e7327d9b58ea.png",
+      "backgroundImage": "https://static.imovies.cc/studios/143-5e73a220a8fb2.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": true,
+      "rating": 6.3230000000000004
+    },
+    {
+      "id": 146,
+      "name": "Relativity Media",
+      "poster": "https://static.imovies.cc/lists/155376017572.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/146-5e7327ff780e0.png",
+      "backgroundImage": "https://static.imovies.cc/studios/146-5e7477333d5aa.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3280000000000003
+    },
+    {
+      "id": 137,
+      "name": "Orion Pictures",
+      "poster": "https://static.imovies.cc/lists/155489327678.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/137-5e7326f828364.png",
+      "backgroundImage": "https://static.imovies.cc/studios/137-5e78f5774d51a.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3449999999999998
+    },
+    {
+      "id": 109,
+      "name": "Polygram Filmed Entertainment",
+      "poster": "https://static.imovies.cc/lists/155255509612.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/109-5e7325222361d.png",
+      "backgroundImage": "https://static.imovies.cc/studios/109-5e7476552fead.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3689999999999998
+    },
+    {
+      "id": 130,
+      "name": "Alcon Entertainment",
+      "poster": "https://static.imovies.cc/lists/155376016746.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/130-5e7326a4bb9ca.png",
+      "backgroundImage": "https://static.imovies.cc/studios/130-5e747694d6db7.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3890000000000002
+    },
+    {
+      "id": 126,
+      "name": "Touchstone Pictures",
+      "poster": "https://static.imovies.cc/lists/155248041282.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/126-5e7326527368d.png",
+      "backgroundImage": "https://static.imovies.cc/studios/126-5e74768cdd2b4.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.3970000000000002
+    },
+    {
+      "id": 190,
+      "name": "American Zoetrope",
+      "poster": "https://static.imovies.cc/lists/155489381714.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/190-5e732abf640d8.png",
+      "backgroundImage": "https://static.imovies.cc/studios/190-5e74788f8d3d1.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.4130000000000003
+    },
+    {
+      "id": 179,
+      "name": "Wild Bunch",
+      "poster": "https://static.imovies.cc/lists/15548937001.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/179-5e732a3a02883.png",
+      "backgroundImage": "https://static.imovies.cc/studios/179-5e74782f2852b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.4169999999999998
+    },
+    {
+      "id": 132,
+      "name": "United Artists",
+      "poster": "https://static.imovies.cc/studios/132-5da85a01f223b.png",
+      "lightPoster": "https://static.imovies.cc/studios/132-5da8389392d8b.png",
+      "backgroundImage": "https://static.imovies.cc/studios/132-5da83893e8ae9.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/132-5dc2856f4846a.png",
+      "isFeatured": true,
+      "rating": 6.431
+    },
+    {
+      "id": 142,
+      "name": "Phoenix Pictures",
+      "poster": "https://static.imovies.cc/lists/155376021950.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/142-5e7327cb20355.png",
+      "backgroundImage": "https://static.imovies.cc/studios/142-5e73a2156fa6d.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.46
+    },
+    {
+      "id": 104,
+      "name": "Miramax Films",
+      "poster": "https://static.imovies.cc/studios/104-5da837fd05571.png",
+      "lightPoster": "https://static.imovies.cc/studios/104-5da837fd3d7fc.png",
+      "backgroundImage": "https://static.imovies.cc/studios/104-5e78a2136d862.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/104-5dc1882ee7a50.png",
+      "isFeatured": true,
+      "rating": 6.4729999999999999
+    },
+    {
+      "id": 101,
+      "name": "Columbia Pictures",
+      "poster": "https://static.imovies.cc/studios/101-5da8379f7f056.png",
+      "lightPoster": "https://static.imovies.cc/studios/101-5da8379fb1aed.png",
+      "backgroundImage": "https://static.imovies.cc/studios/101-5da8379ff2196.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/101-5dc15482eade1.png",
+      "isFeatured": true,
+      "rating": 6.4779999999999998
+    },
+    {
+      "id": 121,
+      "name": "Gaumont",
+      "poster": "https://static.imovies.cc/lists/155248038189.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/121-5e73260e7a8c6.png",
+      "backgroundImage": "https://static.imovies.cc/studios/121-5e78a61bc2ead.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.4790000000000001
+    },
+    {
+      "id": 95,
+      "name": "Paramount Pictures",
+      "poster": "https://static.imovies.cc/studios/95-5da836e5cfc5e.png",
+      "lightPoster": "https://static.imovies.cc/studios/95-5da836e61353e.png",
+      "backgroundImage": "https://static.imovies.cc/studios/95-5da836e68542a.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/95-5dc18682336ae.png",
+      "isFeatured": true,
+      "rating": 6.4930000000000003
+    },
+    {
+      "id": 106,
+      "name": "Twentieth Century Fox",
+      "poster": "https://static.imovies.cc/studios/106-5da8381598328.png",
+      "lightPoster": "https://static.imovies.cc/studios/106-5da83815d982b.png",
+      "backgroundImage": "https://static.imovies.cc/studios/106-5e78a1e8b6ce6.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/106-5dc1885909c55.png",
+      "isFeatured": true,
+      "rating": 6.5069999999999997
+    },
+    {
+      "id": 183,
+      "name": "Why Not Productions",
+      "poster": "https://static.imovies.cc/lists/155489375032.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/183-5e733a2309e36.png",
+      "backgroundImage": "https://static.imovies.cc/studios/183-5e74786b3e2fb.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.5110000000000001
+    },
+    {
+      "id": 120,
+      "name": "Alliance",
+      "poster": "https://static.imovies.cc/lists/155247810337.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/120-5e7325fc9bb48.png",
+      "backgroundImage": "https://static.imovies.cc/studios/120-5e747676240b8.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.5120000000000005
+    },
+    {
+      "id": 140,
+      "name": "Imagine Entertainment",
+      "poster": "https://static.imovies.cc/lists/155248052335.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/140-5e73271eb9ace.png",
+      "backgroundImage": "https://static.imovies.cc/studios/140-5e78a6acbf1b4.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.5389999999999997
+    },
+    {
+      "id": 158,
+      "name": "Castle Rock Entertainment",
+      "poster": "https://static.imovies.cc/lists/155489339440.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/158-5e7339d996640.png",
+      "backgroundImage": "https://static.imovies.cc/studios/158-5e73a2d1c00ad.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.5640000000000001
+    },
+    {
+      "id": 127,
+      "name": "Icon Entertainment",
+      "poster": "https://static.imovies.cc/lists/155248050937.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/127-5e73266545509.png",
+      "backgroundImage": "https://static.imovies.cc/studios/127-5e78a6816366b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.5679999999999996
+    },
+    {
+      "id": 187,
+      "name": "Annapurna Pictures",
+      "poster": "https://static.imovies.cc/lists/155489378520.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/187-5e732aaa63a80.png",
+      "backgroundImage": "https://static.imovies.cc/studios/187-5e73a46cd0c3f.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.569
+    },
+    {
+      "id": 113,
+      "name": "Metro Goldwyn Mayer",
+      "poster": "https://static.imovies.cc/lists/155248064529.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/113-5e7325988c03d.png",
+      "backgroundImage": "https://static.imovies.cc/studios/113-5e78f60e33bfc.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": true,
+      "rating": 6.5979999999999999
+    },
+    {
+      "id": 182,
+      "name": "Zentropa Entertainments",
+      "poster": "https://static.imovies.cc/lists/155489374222.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/182-5e732a55d301c.png",
+      "backgroundImage": "https://static.imovies.cc/studios/182-5e7478432db7f.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6020000000000003
+    },
+    {
+      "id": 194,
+      "name": "Legendary Entertainment",
+      "poster": "https://static.imovies.cc/lists/155489385982.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/194-5e732ac983733.png",
+      "backgroundImage": "https://static.imovies.cc/studios/194-5e78a6f49493a.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6020000000000003
+    },
+    {
+      "id": 171,
+      "name": "TSG Entertainment",
+      "poster": "https://static.imovies.cc/lists/155489350244.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/171-5e733a002b7c6.png",
+      "backgroundImage": "https://static.imovies.cc/studios/171-5e7477dfe2228.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6070000000000002
+    },
+    {
+      "id": 175,
+      "name": "Recorded Picture Company (RPC)",
+      "poster": "https://static.imovies.cc/lists/155489356584.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/175-5e733a0d4f515.png",
+      "backgroundImage": "https://static.imovies.cc/studios/175-5e7477f0a0345.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6340000000000003
+    },
+    {
+      "id": 160,
+      "name": "Netflix",
+      "poster": "https://static.imovies.cc/studios/160-5da826395d0c4.png",
+      "lightPoster": "https://static.imovies.cc/studios/160-5da82639a09a8.png",
+      "backgroundImage": "https://static.imovies.cc/studios/160-5e79c4e149720.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/160-5dc188da02ccc.png",
+      "isFeatured": true,
+      "rating": 6.6420000000000003
+    },
+    {
+      "id": 186,
+      "name": "Working Title Films",
+      "poster": "https://static.imovies.cc/lists/155489377662.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/186-5e732aa1c9028.png",
+      "backgroundImage": "https://static.imovies.cc/studios/186-5e74787f03afc.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6639999999999997
+    },
+    {
+      "id": 170,
+      "name": "Film4",
+      "poster": "https://static.imovies.cc/lists/155489349356.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/170-5e73298fac13e.png",
+      "backgroundImage": "https://static.imovies.cc/studios/170-5e747b1fda632.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6769999999999996
+    },
+    {
+      "id": 161,
+      "name": "Babelsberg Studio",
+      "poster": "https://static.imovies.cc/lists/155377776224.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/161-5e7328e22c250.png",
+      "backgroundImage": "https://static.imovies.cc/studios/161-5e74777ff2ec5.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.681
+    },
+    {
+      "id": 155,
+      "name": "Showtime Entertainment",
+      "poster": "https://static.imovies.cc/lists/155489337738.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/155-5e732876c3ad8.png",
+      "backgroundImage": "https://static.imovies.cc/studios/155-5e82093d09070.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.6899999999999995
+    },
+    {
+      "id": 119,
+      "name": "Focus Features",
+      "poster": "https://static.imovies.cc/lists/155489321519.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/119-5e7325e841219.png",
+      "backgroundImage": "https://static.imovies.cc/studios/119-5e739a6524fab.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.7000000000000002
+    },
+    {
+      "id": 114,
+      "name": "DreamWorks",
+      "poster": "https://static.imovies.cc/studios/114-5da838411e893.png",
+      "lightPoster": "https://static.imovies.cc/studios/114-5da838415f9fd.png",
+      "backgroundImage": "https://static.imovies.cc/studios/114-5e78a183b53f5.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/114-5dc154d02f7bb.png",
+      "isFeatured": true,
+      "rating": 6.7009999999999996
+    },
+    {
+      "id": 147,
+      "name": "Pandora Cinema",
+      "poster": "https://static.imovies.cc/lists/155376748122.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/147-5e73280ed563a.png",
+      "backgroundImage": "https://static.imovies.cc/studios/147-5e73a2470a805.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.7059999999999995
+    },
+    {
+      "id": 173,
+      "name": "RatPac-Dune Entertainment",
+      "poster": "https://static.imovies.cc/lists/15548936353.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/173-5e79bb475f27d.png",
+      "backgroundImage": "https://static.imovies.cc/studios/173-5e73a3db35825.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.7080000000000002
+    },
+    {
+      "id": 159,
+      "name": "The Weinstein Company",
+      "poster": "https://static.imovies.cc/lists/155255952212.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/159-5e79c1dde8849.png",
+      "backgroundImage": "https://static.imovies.cc/studios/159-5e747ae7456ba.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.718
+    },
+    {
+      "id": 150,
+      "name": "Lucasfilm",
+      "poster": "https://static.imovies.cc/lists/155489331333.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/150-5e73283b5cc64.png",
+      "backgroundImage": "https://static.imovies.cc/studios/150-5e78a71b0fdf9.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.742
+    },
+    {
+      "id": 134,
+      "name": "Eon Productions",
+      "poster": "https://static.imovies.cc/lists/15524803293.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/134-5e7326ca646a0.png",
+      "backgroundImage": "https://static.imovies.cc/studios/134-5e78a34dcfacc.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.7590000000000003
+    },
+    {
+      "id": 97,
+      "name": "Walt Disney Pictures",
+      "poster": "https://static.imovies.cc/studios/97-5da8375aa6683.png",
+      "lightPoster": "https://static.imovies.cc/studios/97-5da8375ae83be.png",
+      "backgroundImage": "https://static.imovies.cc/studios/97-5e78a247d869a.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/97-5dc15305270d9.png",
+      "isFeatured": true,
+      "rating": 6.7679999999999998
+    },
+    {
+      "id": 169,
+      "name": "Dentsu",
+      "poster": "https://static.imovies.cc/lists/155497575638.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/169-5e7329778d625.png",
+      "backgroundImage": "https://static.imovies.cc/studios/169-5e78a4e730a6a.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.7809999999999997
+    },
+    {
+      "id": 102,
+      "name": "CBS",
+      "poster": "https://static.imovies.cc/studios/102-5da837bcd4ff1.png",
+      "lightPoster": "https://static.imovies.cc/studios/102-5da837bd15e0a.png",
+      "backgroundImage": "https://static.imovies.cc/studios/102-5dc189dda00c7.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/102-5dc1880b3494e.png",
+      "isFeatured": true,
+      "rating": 6.835
+    },
+    {
+      "id": 145,
+      "name": "Mirisch Production",
+      "poster": "https://static.imovies.cc/lists/155421304820.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/145-5e7327eae1a15.png",
+      "backgroundImage": "https://static.imovies.cc/studios/145-5e747a90609c6.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.8360000000000003
+    },
+    {
+      "id": 166,
+      "name": "Anonymous Content",
+      "poster": "https://static.imovies.cc/lists/155497552134.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/166-5e73293f1415c.png",
+      "backgroundImage": "https://static.imovies.cc/studios/166-5e74855197d52.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.8410000000000002
+    },
+    {
+      "id": 138,
+      "name": "Marvel",
+      "poster": "https://static.imovies.cc/studios/138-5da838b383dd2.png",
+      "lightPoster": "https://static.imovies.cc/studios/138-5da838b3c9933.png",
+      "backgroundImage": "https://static.imovies.cc/studios/138-5e78a0c30958c.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/138-5dc153f6afe2a.png",
+      "isFeatured": true,
+      "rating": 6.8440000000000003
+    },
+    {
+      "id": 167,
+      "name": "3 Arts Entertainment",
+      "poster": "https://static.imovies.cc/lists/15548934663.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/167-5e732956e6706.png",
+      "backgroundImage": "https://static.imovies.cc/studios/167-5e7477ba8f7c3.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.8490000000000002
+    },
+    {
+      "id": 180,
+      "name": "Scott Rudin Productions",
+      "poster": "https://static.imovies.cc/lists/155489371283.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/180-5e733a1a042cc.png",
+      "backgroundImage": "https://static.imovies.cc/studios/180-5e747837a6bd3.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.8579999999999997
+    },
+    {
+      "id": 139,
+      "name": "Amblin Entertainment",
+      "poster": "https://static.imovies.cc/lists/155247812819.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/139-5e73270e80555.png",
+      "backgroundImage": "https://static.imovies.cc/studios/139-5e73a1f17898c.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.859
+    },
+    {
+      "id": 98,
+      "name": "Warner Brothers",
+      "poster": "https://static.imovies.cc/studios/98-5da8377d345de.png",
+      "lightPoster": "https://static.imovies.cc/studios/98-5da8377d70106.png",
+      "backgroundImage": "https://static.imovies.cc/studios/98-5da8377db4037.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/98-5dc187de3df5f.png",
+      "isFeatured": true,
+      "rating": 6.8639999999999999
+    },
+    {
+      "id": 110,
+      "name": "Digital Comics",
+      "poster": "https://static.imovies.cc/lists/155378405351.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/110-5e7339b23e54f.png",
+      "backgroundImage": "https://static.imovies.cc/studios/110-5e7479e54c5d3.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.9240000000000004
+    },
+    {
+      "id": 185,
+      "name": "Fuji Television Network",
+      "poster": "https://static.imovies.cc/lists/155489376656.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/185-5e732a97f0571.png",
+      "backgroundImage": "https://static.imovies.cc/studios/185-5e78a5fcb7186.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.931
+    },
+    {
+      "id": 93,
+      "name": "ABC Studios",
+      "poster": "https://static.imovies.cc/lists/155489389583.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/93-5e789849a5085.png",
+      "backgroundImage": "https://static.imovies.cc/studios/93-5e747623bdfec.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 6.9660000000000002
+    },
+    {
+      "id": 141,
+      "name": "Sony Pictures",
+      "poster": "https://static.imovies.cc/lists/155248093441.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/141-5e73273067e1d.png",
+      "backgroundImage": "https://static.imovies.cc/studios/141-5e74770b10f3b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": true,
+      "rating": 7.0259999999999998
+    },
+    {
+      "id": 157,
+      "name": "NBC",
+      "poster": "https://static.imovies.cc/lists/155489338669.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/157-5e7899fd48e71.png",
+      "backgroundImage": "https://static.imovies.cc/studios/157-5e73a2c7c8e97.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 7.0510000000000002
+    },
+    {
+      "id": 131,
+      "name": "BBC",
+      "poster": "https://static.imovies.cc/lists/155411231517.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/131-5e7326b8141f2.png",
+      "backgroundImage": "https://static.imovies.cc/studios/131-5e739b0b9a62b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 7.1120000000000001
+    },
+    {
+      "id": 115,
+      "name": "HBO",
+      "poster": "https://static.imovies.cc/studios/115-5da8385ddb8b5.png",
+      "lightPoster": "https://static.imovies.cc/studios/115-5da8385e269f3.png",
+      "backgroundImage": "https://static.imovies.cc/studios/115-5e78a150040a0.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/115-5dc15360c9864.png",
+      "isFeatured": true,
+      "rating": 7.1289999999999996
+    },
+    {
+      "id": 168,
+      "name": "Amazon Studios",
+      "poster": "https://static.imovies.cc/lists/155489347255.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/168-5e79c0ab96533.png",
+      "backgroundImage": "https://static.imovies.cc/studios/168-5e7477c59273b.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 7.1399999999999997
+    },
+    {
+      "id": 118,
+      "name": "Mosfilm",
+      "poster": "https://static.imovies.cc/lists/155248072743.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/118-5e7325d7b0b06.png",
+      "backgroundImage": "https://static.imovies.cc/studios/118-5e739a55456db.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 7.3390000000000004
+    },
+    {
+      "id": 124,
+      "name": "Pixar",
+      "poster": "https://static.imovies.cc/studios/124-5da9cba37e9ef.png",
+      "lightPoster": "https://static.imovies.cc/studios/124-5da9cba3b6960.png",
+      "backgroundImage": "https://static.imovies.cc/studios/124-5e78a10022818.png",
+      "backgroundImageNarrow": "https://static.imovies.cc/studios/124-5dc153ca6ee8a.png",
+      "isFeatured": true,
+      "rating": 7.3799999999999999
+    },
+    {
+      "id": 192,
+      "name": "Bad Robot",
+      "poster": "https://static.imovies.cc/lists/155489384279.jpg",
+      "lightPoster": "https://static.imovies.cc/studios/192-5e73247d98b2c.png",
+      "backgroundImage": "https://static.imovies.cc/studios/192-5e78b6e4be0d9.png",
+      "backgroundImageNarrow": "",
+      "isFeatured": false,
+      "rating": 7.4000000000000004
+    }
+  ]

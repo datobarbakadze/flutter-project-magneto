@@ -1,0 +1,233 @@
+[
+    {
+      "code": "GEO",
+      "primaryName": "ქართული",
+      "primaryNameTurned": "ქართულად",
+      "tertiaryName": "Грузинский",
+      "secondaryName": "Georgian"
+    },
+    {
+      "code": "RUS",
+      "primaryName": "რუსული",
+      "primaryNameTurned": "რუსულად",
+      "tertiaryName": "Русский",
+      "secondaryName": "Russian"
+    },
+    {
+      "code": "ENG",
+      "primaryName": "ინგლისური",
+      "primaryNameTurned": "ინგლისურად",
+      "tertiaryName": "Английский",
+      "secondaryName": "English"
+    },
+    {
+      "code": "ARA",
+      "primaryName": "არაბული",
+      "primaryNameTurned": "არაბულად",
+      "tertiaryName": "Русский",
+      "secondaryName": "Arabic"
+    },
+    {
+      "code": "CHI",
+      "primaryName": "ჩინური",
+      "primaryNameTurned": "ჩინურად",
+      "tertiaryName": "Китайский",
+      "secondaryName": "Chinese"
+    },
+    {
+      "code": "CZE",
+      "primaryName": "ჩეხური",
+      "primaryNameTurned": "ჩეხურად",
+      "tertiaryName": "Чешский",
+      "secondaryName": "Czech"
+    },
+    {
+      "code": "DAN",
+      "primaryName": "დანიური",
+      "primaryNameTurned": "დანიურად",
+      "tertiaryName": "Датский",
+      "secondaryName": "Danish"
+    },
+    {
+      "code": "COM",
+      "primaryName": "რეჟისორის კომენტარები",
+      "primaryNameTurned": "რეჟისორის კომენტარები",
+      "tertiaryName": "Комментарии режиссера",
+      "secondaryName": "Director's Commentaries"
+    },
+    {
+      "code": "DUT",
+      "primaryName": "ჰოლანდიური",
+      "primaryNameTurned": "ჰოლანდიურად",
+      "tertiaryName": "Нидерландский",
+      "secondaryName": "Dutch"
+    },
+    {
+      "code": "EST",
+      "primaryName": "ესტონური",
+      "primaryNameTurned": "ესტონურად",
+      "tertiaryName": "Эстонский",
+      "secondaryName": "Estonian"
+    },
+    {
+      "code": "FIN",
+      "primaryName": "ფინური",
+      "primaryNameTurned": "ფინურად",
+      "tertiaryName": "Финский",
+      "secondaryName": "Finnish"
+    },
+    {
+      "code": "FRE",
+      "primaryName": "ფრანგული",
+      "primaryNameTurned": "ფრანგულად",
+      "tertiaryName": "Французский",
+      "secondaryName": "French"
+    },
+    {
+      "code": "GER",
+      "primaryName": "გერმანული",
+      "primaryNameTurned": "გერმანულად",
+      "tertiaryName": "Немецкий",
+      "secondaryName": "German"
+    },
+    {
+      "code": "GRE",
+      "primaryName": "ბერძნული",
+      "primaryNameTurned": "ბერძნულად",
+      "tertiaryName": "Греческий",
+      "secondaryName": "Greek"
+    },
+    {
+      "code": "HEB",
+      "primaryName": "ებრაული",
+      "primaryNameTurned": "ებრაულად",
+      "tertiaryName": "Иврит",
+      "secondaryName": "Hebrew"
+    },
+    {
+      "code": "HIN",
+      "primaryName": "ინდური",
+      "primaryNameTurned": "ინდურად",
+      "tertiaryName": "Хинди",
+      "secondaryName": "Hindi"
+    },
+    {
+      "code": "HUN",
+      "primaryName": "უნგრული",
+      "primaryNameTurned": "უნგრულად",
+      "tertiaryName": "Венгерский",
+      "secondaryName": "Hungarian"
+    },
+    {
+      "code": "ICE",
+      "primaryName": "ისლანდიური",
+      "primaryNameTurned": "ისლანდიურად",
+      "tertiaryName": "Исландский",
+      "secondaryName": "Icelandic"
+    },
+    {
+      "code": "ITA",
+      "primaryName": "იტალიური",
+      "primaryNameTurned": "იტალიურად",
+      "tertiaryName": "Итальянский",
+      "secondaryName": "Italian"
+    },
+    {
+      "code": "JPN",
+      "primaryName": "იაპონური",
+      "primaryNameTurned": "იაპონურად",
+      "tertiaryName": "Японский",
+      "secondaryName": "Japanese"
+    },
+    {
+      "code": "KOR",
+      "primaryName": "კორეული",
+      "primaryNameTurned": "კორეულად",
+      "tertiaryName": "Корейский",
+      "secondaryName": "Korean"
+    },
+    {
+      "code": "NOR",
+      "primaryName": "ნორვეგიული",
+      "primaryNameTurned": "ნორვეგიულად",
+      "tertiaryName": "Норвежский",
+      "secondaryName": "Norwegian"
+    },
+    {
+      "code": "PER",
+      "primaryName": "სპარსული",
+      "primaryNameTurned": "სპარსულად",
+      "tertiaryName": "Персидскмй",
+      "secondaryName": "Persian"
+    },
+    {
+      "code": "POL",
+      "primaryName": "პოლონური",
+      "primaryNameTurned": "პოლონურად",
+      "tertiaryName": "Польский",
+      "secondaryName": "Polish"
+    },
+    {
+      "code": "POR",
+      "primaryName": "პორტუგალიური",
+      "primaryNameTurned": "პორტუგალიურად",
+      "tertiaryName": "Португальский",
+      "secondaryName": "Portuguese"
+    },
+    {
+      "code": "RUM",
+      "primaryName": "რუმინული",
+      "primaryNameTurned": "რუმინულად",
+      "tertiaryName": "Румынский",
+      "secondaryName": "Romanian"
+    },
+    {
+      "code": "SRP",
+      "primaryName": "სერბული",
+      "primaryNameTurned": "სერბულად",
+      "tertiaryName": "Сербский",
+      "secondaryName": "Serbian"
+    },
+    {
+      "code": "SPA",
+      "primaryName": "ესპანური",
+      "primaryNameTurned": "ესპანურად",
+      "tertiaryName": "Испанский",
+      "secondaryName": "Spanish"
+    },
+    {
+      "code": "SWE",
+      "primaryName": "შვედური",
+      "primaryNameTurned": "შვედურად",
+      "tertiaryName": "Шведский",
+      "secondaryName": "Swedish"
+    },
+    {
+      "code": "THA",
+      "primaryName": "ტაილანდური",
+      "primaryNameTurned": "ტაილანდურად",
+      "tertiaryName": "Тайский",
+      "secondaryName": "Thai"
+    },
+    {
+      "code": "TUR",
+      "primaryName": "თურქული",
+      "primaryNameTurned": "თურქულად",
+      "tertiaryName": "Турецкий",
+      "secondaryName": "Turkish"
+    },
+    {
+      "code": "UKR",
+      "primaryName": "უკრაინული",
+      "primaryNameTurned": "უკრაინულად",
+      "tertiaryName": "Украиский",
+      "secondaryName": "Ukrainian"
+    },
+    {
+      "code": "URD",
+      "primaryName": "პაკისტანური",
+      "primaryNameTurned": "პაკისტანურად",
+      "tertiaryName": "Урду",
+      "secondaryName": "Urdu"
+    }
+  ]
